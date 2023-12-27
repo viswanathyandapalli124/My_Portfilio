@@ -1,0 +1,26 @@
+body {
+  background-color: #dae4ee;
+}
+
+.Home {
+  height: 100vh;
+  background: linear-gradient(rgba(161, 95, 95, 0.8), rgba(0, 0, 0, 0.2)),
+    url("../images/photo.avif");
+  background-size: cover;
+}
+.intro {
+  color: whitesmoke;
+  padding: 10% 20%;
+  text-align: justify;
+  font-size: 20px;
+  font-weight: 200;
+}
+.name {
+  font-size: 50px;
+  font-weight: 500;
+}
+.about .card mb-3 {
+  background: linear-gradient(rgba(161, 95, 95, 0.8), rgba(0, 0, 0, 0.2)),
+    url("../images/photo.avif");
+  background-size: cover;
+}
